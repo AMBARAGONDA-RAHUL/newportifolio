@@ -170,7 +170,3 @@ This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) 
 </p>
 ```
 
----
-
-Would you like me to make a **matching LinkedIn Featured Post (with hashtags + recruiter-focused caption)** that markets this project and ties it to your *Coordination Economy research* next?
-It’ll be written to *boost engagement + job visibility*.
