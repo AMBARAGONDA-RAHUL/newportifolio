@@ -136,15 +136,6 @@ python ../backend/utils.py
 
 ---
 
-## 💼 Resume-Ready Highlights
-
-> ✅ Built AI-powered IVR enabling farmers to access rainfall forecasts, crop suggestions, soil & fertilizer guidance, and mandi prices via voice.
-> ✅ Integrated ML backend (Prophet/LSTM), Telugu/Hindi voice synthesis, and QR traceability dashboard.
-> ✅ Achieved *X%* rainfall forecast accuracy (update with test result).
-> ✅ Applied Coordination Economy principles to ensure reliability, intelligence, and human oversight in agricultural AI systems.
-
----
-
 ## 🔮 Future Enhancements
 
 * 🌦️ Integrate **live weather APIs** for real-time predictions
